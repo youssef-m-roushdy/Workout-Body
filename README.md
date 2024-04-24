@@ -1,5 +1,5 @@
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3FA739XJIFSSi2SfSgcriw.png" alt=""/>
-<img src="https://s3.eu-west-2.amazonaws.com/uploads.3alampro.com/2019/May/RRDjDzWYIcxPLFJAPwX5fHA0iUpxi7xk9mgpGNOO.jpeg" alt=""/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3FA739XJIFSSi2SfSgcriw.png" alt="" style="height: 400px; width:800px;"/>
+<img src="https://s3.eu-west-2.amazonaws.com/uploads.3alampro.com/2019/May/RRDjDzWYIcxPLFJAPwX5fHA0iUpxi7xk9mgpGNOO.jpeg" alt="" style="height: 400px; width:800px;"/>
 
 # Workout Body Application
 ## Project Description:
